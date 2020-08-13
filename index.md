@@ -1,3 +1,3 @@
-# Welcome to my blog
+# Welcome to my first blog!
 
-I'm glad you are here. I plan to talk about ...
+I am really excited as I start my first blog through GitHub!Happy to hear your thoughts & learn sharings through GitHub
